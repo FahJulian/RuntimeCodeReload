@@ -87,4 +87,6 @@ int main()
 	});
 
 	testFunctions();
+
+	sonic::DllReloader::destroy();
 }
