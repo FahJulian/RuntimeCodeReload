@@ -1,0 +1,10 @@
+.vs/
+bin/
+*.log
+*.sln
+*.idb
+*.pdb
+*.hint
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
